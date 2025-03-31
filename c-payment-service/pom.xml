@@ -1,0 +1,20 @@
+<dependencies>
+
+    <!-- Stripe SDK -->
+    <dependency>
+        <groupId>com.stripe</groupId>
+        <artifactId>stripe-java</artifactId>
+        <version>24.0.0</version>
+    </dependency>
+
+    <!-- iTextPDF -->
+    <dependency>
+        <groupId>com.itextpdf</groupId>
+        <artifactId>itext7-core</artifactId>
+        <version>8.0.2</version>
+        <type>pom</type>
+    </dependency>
+
+    <!-- (Other existing dependencies can also go here) -->
+
+</dependencies>
