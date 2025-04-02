@@ -1,0 +1,6 @@
+projectKey=e-notification-service
+serverUrl=http://localhost:9000
+serverVersion=25.3.0.104237
+dashboardUrl=http://localhost:9000/dashboard?id=e-notification-service
+ceTaskId=95ce2a67-889f-4fb5-aaeb-1428388d9029
+ceTaskUrl=http://localhost:9000/api/ce/task?id=95ce2a67-889f-4fb5-aaeb-1428388d9029

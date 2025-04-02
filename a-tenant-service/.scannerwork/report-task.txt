@@ -1,0 +1,6 @@
+projectKey=a-tenant-service
+serverUrl=http://localhost:9000
+serverVersion=25.3.0.104237
+dashboardUrl=http://localhost:9000/dashboard?id=a-tenant-service
+ceTaskId=33d2d2cc-afaf-4d25-92b6-a736a4721829
+ceTaskUrl=http://localhost:9000/api/ce/task?id=33d2d2cc-afaf-4d25-92b6-a736a4721829

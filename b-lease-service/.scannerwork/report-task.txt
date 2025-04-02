@@ -1,0 +1,6 @@
+projectKey=b-lease-service
+serverUrl=http://localhost:9000
+serverVersion=25.3.0.104237
+dashboardUrl=http://localhost:9000/dashboard?id=b-lease-service
+ceTaskId=e441f11e-20e5-42bb-b24d-044c3e20ce1a
+ceTaskUrl=http://localhost:9000/api/ce/task?id=e441f11e-20e5-42bb-b24d-044c3e20ce1a

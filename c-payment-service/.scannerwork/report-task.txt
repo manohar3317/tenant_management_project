@@ -1,0 +1,6 @@
+projectKey=b-Payment-service
+serverUrl=http://localhost:9000
+serverVersion=25.3.0.104237
+dashboardUrl=http://localhost:9000/dashboard?id=b-Payment-service
+ceTaskId=078c5144-5ea0-4883-b555-376ccc266b53
+ceTaskUrl=http://localhost:9000/api/ce/task?id=078c5144-5ea0-4883-b555-376ccc266b53
